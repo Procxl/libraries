@@ -1,0 +1,34 @@
+table {
+  font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
+  font-size: 100%;
+  font-style: normal;
+  line-height: normal;
+  font-weight : 400;
+  background-position:   center 50%;
+}
+p            { font-family: Verdana, Geneva, Arial, helvetica, sans-serif; font-size: 90%; font-weight : 400;}
+body         { font-family: Verdana, Geneva, Arial, helvetica, sans-serif; font-size: 90%; font-weight : 400;}
+b            {font-weight : 600;}
+
+table.highlight {
+  background-color: #bbd0ff;
+}
+
+/* Rows with compound names */
+td.highlight {
+  background-color: #bbd0ff;
+}
+
+a.menu:link     {background:#ffffff; color:#000000; text-decoration:none; padding:0px 7px 0px 7px;}
+a.menu:visited  {background:#ffffff; color:#000000; text-decoration:none; padding:0px 7px 0px 7px;}
+a.menu:focus    {background:#08246b; color:#ffffff; text-decoration:none; padding:0px 7px 0px 7px;}
+a.menu:hover    {background:#08246b; color:#ffffff; text-decoration:none; padding:0px 7px 0px 7px; cursor: pointer;}
+a.menu:active   {background:#08246b; color:#ffffff; text-decoration:overline; padding:0px 7px 0px 7px;}
+
+
+a.nav:link      {background:#ffffff; color:#000000; text-decoration:none; padding:0px 7px 0px 7px;}
+a.nav:visited   {background:#ffffff; color:#000000; text-decoration:none; padding:0px 7px 0px 7px;}
+a.nav:focus     {background:#08246b; color:#ffffff; text-decoration:none; padding:0px 7px 0px 7px;}
+a.nav:hover     {background:#08246b; color:#ffffff; text-decoration:none; padding:0px 7px 0px 7px;}
+a.nav:active    {background:#08246b; color:#ffffff; text-decoration:overline; padding:0px 7px 0px 7px;}
+div.moldiv:hover  {cursor: pointer;}
